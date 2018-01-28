@@ -11,7 +11,7 @@ github_repo: "https://github.com/zbhddt/zbhddt.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "第一次分享，向共享前进，向分享前进!如果你觉得有用，就赞赏我一下吧"
 sidebar-avatar: /img/zbh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
